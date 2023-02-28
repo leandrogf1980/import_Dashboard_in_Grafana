@@ -1,8 +1,7 @@
 # Importação de Dashboard compatível com o InfluxDB 2.x no Grafana
 
-1- Faça download do Dashboard compatível com o InfluxDB 2.x.
-Link para download: https://grafana.com/grafana/dashboards/13644.  
-1,1- Clique no botão “Download JSON” para baixar o arquivo.
+1- Faça download do Dashboard no link: https://grafana.com/grafana/dashboards/13644.  
+1.1- Clique no botão “Download JSON” para baixar o arquivo.
 
 ![image](https://user-images.githubusercontent.com/126198206/221896741-3b862ce1-90fd-4f9a-bf70-01d9ba5a25af.png)
 
