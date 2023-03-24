@@ -18,6 +18,6 @@
 
 ![image](https://user-images.githubusercontent.com/126198206/221898151-8b44915f-af55-47b1-abca-72cd02abd8fa.png)
 
-2.4- Será apresentado o painel do Dashboard, que será atualizado conforme o influxDB for recebendo as informações do teste executado no JMeter.
+2.4- Será apresentado o painel do Dashboard, que receberá atualizações mediante o influxDB for armazenando os dados do teste executado no JMeter.
 
 ![image](https://user-images.githubusercontent.com/126198206/221899433-63162d90-05a2-449e-8739-6a1585487513.png)
