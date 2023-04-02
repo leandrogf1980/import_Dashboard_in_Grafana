@@ -19,6 +19,7 @@
 ![image](https://user-images.githubusercontent.com/126198206/221898151-8b44915f-af55-47b1-abca-72cd02abd8fa.png)
 
 2.4- Será apresentado o painel do Dashboard.
+
 **`Obs.: Esse Dashboard somente será atualizado mediante a execução do script no JMeter, conforme abordaremos no próximo passo.`**
 
 ![image](https://user-images.githubusercontent.com/126198206/221899433-63162d90-05a2-449e-8739-6a1585487513.png)
